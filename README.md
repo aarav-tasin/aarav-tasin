@@ -52,20 +52,17 @@
 </p>
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aarav-7x&show_icons=true&theme=midnight-purple&hide_border=true&title_color=9d4edd&icon_color=7b2cbf&text_color=c77dff&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aarav-tasin&show_icons=true&theme=midnight-purple&hide_border=true&title_color=9d4edd&icon_color=7b2cbf&text_color=c77dff&bg_color=0d1117"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarav-7x&theme=midnight-purple&hide_border=true&ring=9d4edd&fire=7b2cbf&currStreakLabel=c77dff&background=0d1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarav-tasin&theme=midnight-purple&hide_border=true&ring=9d4edd&fire=7b2cbf&currStreakLabel=c77dff&background=0d1117"/>
 
 </p>
-
----
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Aarav-7x&label=Profile%20View&color=4c1d95&labelColor=0f172a&style=for-the-badge"/>
 </p>
