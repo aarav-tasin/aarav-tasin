@@ -38,7 +38,6 @@
 </tr>
 </table>
 
-## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-6a0dad?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -52,7 +51,6 @@
 </p>
 ---
 
-### 📊 GitHub Stats
 
 <p align="center">
 
