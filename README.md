@@ -49,7 +49,6 @@
 <img src="https://img.shields.io/badge/CSS3-7b2cbf?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-5a189a?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
----
 
 
 <p align="center">
